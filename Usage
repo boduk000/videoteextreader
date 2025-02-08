@@ -1,1 +1,2 @@
  python vtr.py -video example.mp4 -out example.docx
++ download vosk model https://alphacephei.com/vosk/models and change the path in code
