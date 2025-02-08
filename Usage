@@ -1,0 +1,1 @@
+ python vtr.py -video example.mp4 -out example.docx
